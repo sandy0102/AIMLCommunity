@@ -6,4 +6,3 @@
 The objective of this project is to observe the breast cancer dataset and do analysis and get an insight into the features which are helpful to predict malignant or benign cancer.  The goal is to classify whether the breast cancer is benign or malignant. Since this is a binary classification problem, I  have used machine learning classification method to fit a function that can predict the class of the diagnosis column.
 
 # Phase 1 — Data Exploration
-Did pip install pandas-profiling from Anaconda prompt so that pandas-profiling can be used for getting the profile of the whole dataset with visualization details. 
