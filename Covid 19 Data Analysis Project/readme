@@ -1,0 +1,5 @@
+COVID 19 DATA ANALYSIS PROJECT
+
+In this project we will be analysing the COVID 19 dataset and gaining meaningful insights from the data.
+
+Week 1 focuses on Scraping and cleaning the Covid 19 dataset obtained from Worldometer website https://www.worldometers.info/coronavirus. The tools that are being used are Python and its libraries, Frontend tools like HTML, CSS, Frontend framework flask, Git and Heroku. We will be designing a frontend and deployment will be done on Heroku.
